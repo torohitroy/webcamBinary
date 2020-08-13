@@ -7,7 +7,7 @@ there back to the client using Binary.JS (Binary WebSockets).
 
 ```
 git clone https://github.com/torohitroy/webcamBinary.git
-cd webcam-binaryjs-demo
+cd webcam-binaryjs
 npm install
 ```
 
