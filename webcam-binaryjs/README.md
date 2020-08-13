@@ -19,3 +19,5 @@ http://localhost:4000
 ### Browser Support
 
 So far it seems to work in the newer Chrome and Firefox versions.
+
+### Main REPO copied from https://github.com/xat/webcam-binaryjs-demo did changes and bug fixes and commited in OWN repo
